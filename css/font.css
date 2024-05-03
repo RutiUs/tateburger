@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "baloo-cyrillic";
+  font-weight: 400;
+  src: url("../fonts/baloo-cyrillic.woff") format(".woff");
+}
+@font-face {
+  font-family: "baloo-cyrillic";
+  font-weight: 400;
+  src: url("../fonts/baloo-cyrillic.woff2") format(".woff2");
+}/*# sourceMappingURL=font.css.map */

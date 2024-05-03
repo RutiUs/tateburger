@@ -1,0 +1,18 @@
+:root {
+    --third-family: "Baloo", sans-serif;
+    
+	--background: #d00266;
+	--stroke: #f550a0;
+	--white: #fff;
+	--orange: #fe9900;
+	--black: #1e1d1d;
+	--strokes: #18aaa2;
+	--strokk: #1b706c;
+}
+
+%third-family {
+    font-family: "Baloo", sans-serif;
+    font-weight: 400;
+    src: url("../fonts/baloo-cyrillic.woff") format('.woff'),
+         url("../fonts/baloo-cyrillic.woff2") format('.woff2');
+}
